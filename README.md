@@ -9,5 +9,4 @@ v1.0 Özellikler:
 - F6 tuşlamayı durdurur ve F7 tuşlamayı başlatır. 
 - Gerekli .NET Framework sürümü 3.5 veya daha yeni.
 
-
-Detaylı bilgi için: http://fullinndir.tk veya http://ferhatkurt.net adreslerinden ulaşabilirsiniz
+Çalıştırılabilir dosya sourceforge.net üzerinde yer almaktadır.
